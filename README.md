@@ -4,10 +4,14 @@ Machine learning models and analysis for predicting heart disease using clinical
 
 This project explores a dataset related to heart disease. The goal is to predict the presence of heart disease using machine learning models.
 
+## Heart Disease Analysis
+This project explores a dataset related to heart disease. The goal is to predict the presence of heart disease using machine learning models.
+
 # Project Structure
-- `notebooks/` - Contains Jupyter notebooks for analysis and model building.
-- `scripts/` - Contains Python scripts for data preprocessing and modeling.
-- `data/` - Contains the dataset (heart.csv).
+- [Notebooks/heart_disease_analysis.ipynb](Notebooks/heart_disease_analysis.ipynb) - Exploratory analysis and machine learning model notebook.
+- [scripts/](scripts/) - Contains Python scripts for data preprocessing and modeling.
+- [data/](data/) - Contains the dataset (heart.csv).
+
 
 # Requirements
 - Python 3.7+
