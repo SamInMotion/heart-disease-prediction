@@ -71,8 +71,7 @@ Key visualizations for understanding feature distributions and relationships:
 ![Correlation Heatmap](visuals/correlation_heatmap.png)
 
 
- Boxplots of Numeric Features
-![Boxplots](visuals/boxplots_numerical.png)
+ 
 
 
  ##  Model Training
@@ -87,15 +86,14 @@ Recall: 89%
 
 ##  Model Evaluation
 
- Confusion Matrix
-![Confusion Matrix](visuals/confusion_matrix.png)
+
 
  ROC Curve
 ![ROC Curve](visuals/roc_curve.png)
 
- Uncertainty Quantification
+ 
+ ###  Uncertainty Estimate (Bootstrap)
 
-![Uncertainty Bootstrap](visuals/uncertainty_bootstrap.png)
 
 
 We use bootstrap resampling to estimate prediction confidence intervals.
